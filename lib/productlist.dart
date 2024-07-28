@@ -13,10 +13,10 @@ class ProductListState extends State<ProductList> {
 
   final List<Map<String, dynamic>> products = [
     {"name": "Trái cây & Rau", "image": "assets/apple-usa.png", "color": Colors.orange},
-    {"name": "Thịt & Cá", "image": "assets/apple-usa.png", "color": Colors.red},
+    {"name": "Meat & Fish", "image": "assets/apple-usa.png", "color": Colors.red},
     {"name": "Sản phẩm từ sữa", "image": "assets/apple-usa.png", "color": Colors.yellow},
-    {"name": "Dầu ăn & Ghee", "image": "assets/apple-usa.png", "color": Colors.blue},
-    {"name": "Bánh ngọt & Đồ ăn vặt", "image": "assets/apple-usa.png", "color": Colors.green},
+    {"name": "Dầu oli & Ghee", "image": "assets/apple-usa.png", "color": Colors.blue},
+    {"name": "Bakery & Snack", "image": "assets/apple-usa.png", "color": Colors.green},
     {"name": "Đồ uống", "image": "assets/beverages.png", "color": Colors.pink},
     {"name": "Dairy & age", "image": "assets/age.png", "color": Colors.purple},
     {"name": "Berevages", "image": "assets/vegeta.png", "color": Colors.brown},
