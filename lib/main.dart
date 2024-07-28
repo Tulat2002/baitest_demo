@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-import 'myapp.dart';
+import 'productlist.dart';
 
 void main() {
   runApp(MaterialApp(
